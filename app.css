@@ -1,0 +1,12 @@
+.mobile_img {
+    height: 300px;
+    width: 400px
+}
+
+@media (max-width: 680px) {
+    .mobile_img {
+        height: 10%;
+        width: 100%;
+    }
+
+  }
